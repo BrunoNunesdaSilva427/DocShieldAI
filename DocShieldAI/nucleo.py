@@ -24,9 +24,9 @@ class Preset:
 
 
 PRESETS: dict[str, Preset] = {
-    "leve":       Preset(dpi=300, amplitude_onda=4, freq_onda=20, opacidade_textura=40, granulado=14),
-    "medio":      Preset(dpi=300, amplitude_onda=6, freq_onda=36, opacidade_textura=55, granulado=26),
-    "agressivo":  Preset(dpi=300, amplitude_onda=7, freq_onda=48, opacidade_textura=70, granulado=34),
+    "leve":       Preset(dpi=300, amplitude_onda=8, freq_onda=20, opacidade_textura=40, granulado=28),
+    "medio":      Preset(dpi=300, amplitude_onda=12, freq_onda=36, opacidade_textura=55, granulado=52),
+    "agressivo":  Preset(dpi=300, amplitude_onda=14, freq_onda=48, opacidade_textura=70, granulado=68),
 }
 
 EXTENSOES_CONVERSIVEIS = (".docx", ".rtf", ".txt")
