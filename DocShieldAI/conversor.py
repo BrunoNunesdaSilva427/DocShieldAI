@@ -16,7 +16,7 @@ from reportlab.platypus import Paragraph, SimpleDocTemplate, Spacer
 _MARGEM_PADRAO_PT = 72  
 
 
-_FONTE_PADRAO_TTF = Path(__file__).resolve().parent.parent / "fontes" / "Renaissance-Initialen 1.ttf"
+_FONTE_PADRAO_TTF = Path(__file__).resolve().parent.parent / "fontes" / "Renaissance-Initialen.ttf"
 
 
 
