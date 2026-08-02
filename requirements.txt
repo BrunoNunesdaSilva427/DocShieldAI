@@ -1,0 +1,8 @@
+pypdfium2>=4.30
+pillow>=10.1
+numpy>=1.26
+img2pdf>=0.5
+python-docx>=1.1
+reportlab>=4.0
+striprtf>=0.0.26
+pyttsx3>=2.90
